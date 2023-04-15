@@ -8,23 +8,15 @@
 <img src="https://media.wired.com/photos/59272c83af95806129f51d40/master/w_1600%2Cc_limit/Reactions11.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Web Scraper Bot Leveraging Generative AI](https://github.com/utsavajay/projects/tree/main/Web%20Scraper%20Bot)
+<img src="https://media.wired.com/photos/5b6df22751297c21002b4536/1:1/w_1272,h_1272,c_limit/HackerBot.jpg"/>
 
 ---
 
-### Category Name 2
+### Predictve Modelling
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Credit Card Default Risk for American Express]([http://example.com/](https://github.com/utsavajay/amex_credit_risk))
+- [ETL Pipelines with Alteryx Cloud](https://github.com/utsavajay/big_data_trends
 ---
 
 
