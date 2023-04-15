@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  
   <br><br>
   <a href="https://www.linkedin.com/in/utsav-ajay/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://drive.google.com/file/d/16H53qvU8iVm8CwVBqdIacxCzKp_dPECo/view?usp=share_link">View My Resume</a> 
   
 theme: jekyll-theme-minimal
