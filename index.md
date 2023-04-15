@@ -4,8 +4,8 @@
 
 ### Natural Language Processing 
 
-[Facebook Post Sentiment Classififcation using BERT]([/sample_page](https://colab.research.google.com/drive/1WidOakiD89cKkUN093LJbN3zM2j9bSFP?usp=sharing))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Facebook Post Sentiment Classififcation using BERT](https://github.com/utsavajay/projects/blob/main/facebook_post_classifier.ipynb)
+<img src="https://media.wired.com/photos/59272c83af95806129f51d40/master/w_1600%2Cc_limit/Reactions11.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
