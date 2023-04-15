@@ -15,9 +15,9 @@
 
 ### Predictve Modelling
 
-- [Credit Card Default Risk for American Express]([http://example.com/](https://github.com/utsavajay/amex_credit_risk))
+- [Credit Card Default Risk for American Express](https://github.com/utsavajay/amex_credit_risk)
 - [ETL Pipelines with Alteryx Cloud](https://github.com/utsavajay/big_data_trends)
----
+
 
 
 
